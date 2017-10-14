@@ -53,7 +53,7 @@ $ems_rate = array(
         array( 'weight' => 27000, 'price' => 415),
         array( 'weight' => 28000, 'price' => 430),
         array( 'weight' => 29000, 'price' => 445),
-        array( 'weight' => 30000, 'price' => 460),
+        array( 'weight' => 30000, 'price' => 460)
     ),
     "ems" => array(
         0 => array( 'weight' => 20, 'price' => 32),
